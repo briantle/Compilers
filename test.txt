@@ -1,0 +1,3 @@
+LENGTH(name#' '#"King")
+
+//2 2 4 * iFM[ + 1 - iFM[
